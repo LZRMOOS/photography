@@ -1,0 +1,14 @@
+{
+  "name": "photography",
+  "version": "3.0.0",
+  "main": "npmfile.js",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-gm": "0.0.9",
+    "gulp-image-resize": "^0.13.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
